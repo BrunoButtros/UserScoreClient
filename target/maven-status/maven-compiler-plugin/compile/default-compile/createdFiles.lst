@@ -1,0 +1,5 @@
+com\bruno\buttros\Score\API\Server\controller\ScoreController.class
+com\bruno\buttros\Score\API\Server\model\ScoreResponse.class
+com\bruno\buttros\Score\API\Server\model\CpfRequest.class
+com\bruno\buttros\Score\API\Server\service\ScoreService.class
+com\bruno\buttros\Score\API\Server\ScoreApiApplication.class
