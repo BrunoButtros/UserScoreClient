@@ -1,5 +1,5 @@
-C:\Users\bruno\Desktop\Score-API-Server\src\main\java\com\bruno\buttros\Score\API\Server\ScoreApiApplication.java
-C:\Users\bruno\Desktop\Score-API-Server\src\main\java\com\bruno\buttros\Score\API\Server\controller\ScoreController.java
-C:\Users\bruno\Desktop\Score-API-Server\src\main\java\com\bruno\buttros\Score\API\Server\service\ScoreService.java
-C:\Users\bruno\Desktop\Score-API-Server\src\main\java\com\bruno\buttros\Score\API\Server\model\ScoreResponse.java
-C:\Users\bruno\Desktop\Score-API-Server\src\main\java\com\bruno\buttros\Score\API\Server\model\CpfRequest.java
+C:\Users\bruno\Desktop\Score-API-Server\src\main\java\com\github\brunobuttros\score\api\server\model\CpfRequest.java
+C:\Users\bruno\Desktop\Score-API-Server\src\main\java\com\github\brunobuttros\score\api\server\model\ScoreResponse.java
+C:\Users\bruno\Desktop\Score-API-Server\src\main\java\com\github\brunobuttros\score\api\server\service\ScoreService.java
+C:\Users\bruno\Desktop\Score-API-Server\src\main\java\com\github\brunobuttros\score\api\server\ScoreApiApplication.java
+C:\Users\bruno\Desktop\Score-API-Server\src\main\java\com\github\brunobuttros\score\api\server\controller\ScoreController.java

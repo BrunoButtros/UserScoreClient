@@ -1,5 +1,5 @@
-com\bruno\buttros\Score\API\Server\controller\ScoreController.class
-com\bruno\buttros\Score\API\Server\model\ScoreResponse.class
-com\bruno\buttros\Score\API\Server\model\CpfRequest.class
-com\bruno\buttros\Score\API\Server\service\ScoreService.class
-com\bruno\buttros\Score\API\Server\ScoreApiApplication.class
+com\github\brunobuttros\score\api\server\ScoreApiApplication.class
+com\github\brunobuttros\score\api\server\controller\ScoreController.class
+com\github\brunobuttros\score\api\server\model\CpfRequest.class
+com\github\brunobuttros\score\api\server\model\ScoreResponse.class
+com\github\brunobuttros\score\api\server\service\ScoreService.class
