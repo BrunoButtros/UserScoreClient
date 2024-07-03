@@ -1,6 +1,0 @@
-services:
-  score-server:
-    image: "score-api-server"
-    container_name: "score-server"
-    ports:
-      - "8081:8081"  

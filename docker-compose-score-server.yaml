@@ -1,0 +1,14 @@
+services:
+  score-server:
+    image: "score-api-server"
+    container_name: "score-server"
+    ports:
+      - "8081:8081"
+    networks:
+      - score_network
+    volumes:
+      - C:/Users/bruno/Desktop/user-score/usuarios_scores.txt:/app/usuarios_scores.txt
+
+networks:
+  score_network:
+    external: true
